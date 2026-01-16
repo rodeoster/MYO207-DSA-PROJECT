@@ -2,7 +2,7 @@
 
 // İSİM SOYİSİM: Mehmet Efe Uysal
 // ÖĞRENCİ NUMARASI: 2420171026
-https:/www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCeJaPjb
+// https:/www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCeJaPjb
 
 void secmeli_sirala(int dizi[], int n) {
     int i, j, min_idx, temp;
